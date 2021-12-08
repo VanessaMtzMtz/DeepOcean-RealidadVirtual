@@ -9,12 +9,27 @@ EditorBuildSettings:
     path: Assets/Scenes/MenuDeepOcean.unity
     guid: 71d25cdeadfe66c43824e37a59f2dd51
   - enabled: 1
-    path: Assets/Scenes/Nivel3.unity
-    guid: e810a3bf8321eeb4c80e71404fe3aa49
-  - enabled: 1
     path: Assets/Scenes/Nivel1.unity
     guid: 23f9a21e883c7bd45b40d752a749e4f0
   - enabled: 1
+    path: Assets/Scenes/Nivel1-1.unity
+    guid: d927ce885197fb2408c4362685995b45
+  - enabled: 1
     path: Assets/Scenes/Nivel2.unity
     guid: f9b8cc38628f26743b5ad0eafaadc63b
+  - enabled: 1
+    path: Assets/Scenes/Nivel2-1.unity
+    guid: a986ce9eba8a20d4f8aae21561e5e513
+  - enabled: 1
+    path: Assets/Scenes/Nivel3.unity
+    guid: e810a3bf8321eeb4c80e71404fe3aa49
+  - enabled: 0
+    path: Assets/Scenes/Nivel3-1.unity
+    guid: f688af10c122d4e48bafe1397f23b5c6
+  - enabled: 1
+    path: Assets/Scenes/Nivel3-2.unity
+    guid: e1f1a3aff5aedc64697051252e27e4b4
+  - enabled: 1
+    path: Assets/Scenes/Nivel3-1-1.unity
+    guid: 04d223c40dde74e42acbe513cc2cd4e3
   m_configObjects: {}
